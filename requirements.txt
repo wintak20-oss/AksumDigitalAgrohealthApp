@@ -1,0 +1,7 @@
+tensorflow-cpu
+opencv-python-headless
+pillow
+pandas
+numpy
+streamlit
+streamlit-js-eval
